@@ -4,7 +4,8 @@
 This project identifies relatively safer neighborhoods in San Francisco by analyzing traffic crash incident data and grouping neighborhoods based on incident counts.
 
 ## Data Source
-San Francisco Open Data Portal traffic crash dataset, saved locally as `data/raw/sf_data.csv`.
+San Francisco Open Data Portal traffic crash dataset, saved locally as `data/raw/sf_data.csv`.\
+https://data.sfgov.org/Public-Safety/Traffic-Crashes-Resulting-in-Injury/ubvf-ztfx/data_preview 
 
 ## Data Mining Task
 This project uses clustering analysis with K-means to group neighborhoods into low-, medium-, and high-incident categories.
